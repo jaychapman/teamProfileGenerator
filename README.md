@@ -37,7 +37,7 @@ If you want to contribute to this project we ask that you review [The Contributo
 
 This application was tested in node.js using Jest
 
-![test screenshot]("assets/screenshotTest.jpg")
+![test screenshot](assets/screenshotTest.jpg)
 
 ## Questions
 
