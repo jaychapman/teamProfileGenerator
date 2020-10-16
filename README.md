@@ -19,7 +19,7 @@ I also used some styling for the command line utilizing colors to highlight the 
 * [License](#license)
 
 This is a screenshot of the generated team.html page:
-![screenshot](assets/screenshot.jpg)
+![screenshot](assets/screenshotTest.jpg)
 
 ## Installation
 
