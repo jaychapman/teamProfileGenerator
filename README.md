@@ -1,7 +1,7 @@
 # Team Profile Generator
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-[!test screenshot]("https://github.com/jaychapman/teamProfileGenerator/blob/main/assets/screenshot.jpg")
+![test screenshot]("https://github.com/jaychapman/teamProfileGenerator/blob/main/assets/screenshot.jpg")
 
 ## Description 
 
