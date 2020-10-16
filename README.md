@@ -1,11 +1,11 @@
 # Team Profile Generator
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-![screenshot](assets/screenshot.jpg)
-
 ## Description 
 
-Creates a team profile from command prompt questions
+This is a command line application that generates an html page based on user input. The application runs using [Node.js](https://nodejs.org/en/) and [Inquirer.js](https://www.npmjs.com/package/inquirer). The app is designed to allow the user to add as many team members as they want. When the user is finished entering information, a team.html page will be generated in the output directory and will display each team member as either a manager, engineer or intern. The project utilizes both [Bootstrap](https://getbootstrap.com/) and custom css for styling. This is what the team.html page looks like in the browser:
+
+![screenshot](assets/screenshot.jpg)
 
 ## Table of Contents
 
