@@ -1,6 +1,8 @@
 # Team Profile Generator
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
+[!test screenshot]("assets/screenshot.jpg")
+
 ## Description 
 
 Creates a team profile from command prompt questions
@@ -20,7 +22,7 @@ later
 
 ## Usage
 
-later
+I have created a YouTube video demonstrating the functionality of this application: https://www.youtube.com/watch?v=eQaE3TZ4zHQ
 
 ## Contributing
 
@@ -28,7 +30,9 @@ If you want to contribute to this project we ask that you review [The Contributo
 
 ## Tests
 
-Jest testing in node.js
+This application was tested in node.js using Jest
+
+[!test screenshot]("assets/testscreenshot.jpg")
 
 ## Questions
 
