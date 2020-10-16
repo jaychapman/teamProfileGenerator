@@ -19,7 +19,7 @@ I also used some styling for the command line utilizing colors to highlight the 
 * [License](#license)
 
 This is a screenshot of the generated team.html page:
-![screenshot](assets/screenshotTest.jpg)
+![screenshot](assets/screenshot.jpg)
 
 ## Installation
 
@@ -37,7 +37,7 @@ If you want to contribute to this project we ask that you review [The Contributo
 
 This application was tested in node.js using Jest
 
-[!test screenshot]("assets/screenshotTest.jpg")
+![test screenshot]("assets/screenshotTest.jpg")
 
 ## Questions
 
